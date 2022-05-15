@@ -1,11 +1,11 @@
-from group_anagrams import groupAnagrams
+from top_k_frequent import topKFrequent
 
 
 def main():
-    # res = groupAnagrams([""])
-    # res = groupAnagrams(["hhhhu", "tttti", "tttit", "hhhuh", "hhuhh", "tittt"])
-    # res = groupAnagrams(["eat", "tea", "tan", "ate", "nat", "bat"])
-    res = groupAnagrams(["ddddddddddg", "dgggggggggg"])
+    nums = [73, 5, 3, 1, 1, 1, 3, 1]
+    k = 2
+
+    res = topKFrequent(nums, k)
 
     print(res)
 
