@@ -1,11 +1,10 @@
-from top_k_frequent import topKFrequent
+from product_of_array_except_self import productExceptSelf
 
 
 def main():
-    nums = [73, 5, 3, 1, 1, 1, 3, 1]
-    k = 2
+    nums = [-1, 1, 0, -3, 3]
 
-    res = topKFrequent(nums, k)
+    res = productExceptSelf(nums)
 
     print(res)
 
