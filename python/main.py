@@ -1,15 +1,10 @@
-from encode_decode_strings import encode, decode
+from longest_consecutive_sequence import longestConsecutive
 
 
 def main():
+    nums = [100, 4, 200, 1, 3, 2]
 
-    strs = ["we", "say", ":", "yes"]
-
-    enc = encode(strs)
-
-    print(enc)
-
-    res = decode(enc)
+    res = longestConsecutive(nums)
 
     print(res)
 
