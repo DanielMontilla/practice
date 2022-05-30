@@ -1,10 +1,11 @@
-from longest_consecutive_sequence import longestConsecutive
+from two_sum_ii import twoSum
 
 
 def main():
-    nums = [100, 4, 200, 1, 3, 2]
+    nums = [2, 7, 11, 15]
+    target = 9
 
-    res = longestConsecutive(nums)
+    res = twoSum(nums, target)
 
     print(res)
 
