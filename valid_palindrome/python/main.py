@@ -20,3 +20,13 @@ def isPalindrome(s: str) -> bool:
         r -= 1
 
     return True
+
+# Inputs:
+palindrome_1 = "A man, a plan, a canal: Panama"
+palindrome_2 = "race a car"
+palindrome_3 = " "
+
+
+if __name__ == '__main__':
+    res = isPalindrome(palindrome_1)
+    print(res)

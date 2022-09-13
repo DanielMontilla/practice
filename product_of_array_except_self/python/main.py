@@ -1,8 +1,6 @@
 from typing import List
 
 # https://leetcode.com/problems/product-of-array-except-self/
-# COULD NOT SOLVE ON MY OWN. LOOKED ONLINE FOR HINT
-
 
 def productExceptSelf(nums: List[int]) -> List[int]:
     l = len(nums)
@@ -44,3 +42,11 @@ def productExceptSelf(nums: List[int]) -> List[int]:
     Runtime: 246 ms, faster than 81.59% of Python3 online submissions for Product of Array Except Self.
     Memory Usage: 22.3 MB, less than 23.89% of Python3 online submissions for Product of Array Except Self.
 """
+
+# Inputs:
+nums_1 = [1,2,3,4]
+nums_2 = [-1,1,0,-3,3]
+
+if __name__ == '__main__':
+    res = productExceptSelf(nums_1)
+    print(res)

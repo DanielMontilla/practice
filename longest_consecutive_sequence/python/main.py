@@ -2,7 +2,6 @@ from typing import List
 
 # https://leetcode.com/problems/longest-consecutive-sequence/
 
-
 def longestConsecutive(nums: List[int]) -> int:
     hashset = set(nums)
 
@@ -29,3 +28,11 @@ def longestConsecutive(nums: List[int]) -> int:
 
     pretty bad results. more time required for optimized solution
 """
+
+# Inputs:
+nums_1 = [100,4,200,1,3,2]
+nums_2 = [0,3,7,2,5,8,4,6,0,1]
+
+if __name__ == '__main__':
+    res = longestConsecutive(nums_1)
+    print(res)

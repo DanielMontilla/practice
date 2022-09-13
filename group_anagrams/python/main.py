@@ -41,3 +41,12 @@ def groupAnagrams(strs: List[str]) -> List[List[str]]:
     
     Very slow... but super memory efficient
 """
+
+# Inputs:
+strs_1 = ["eat","tea","tan","ate","nat","bat"]
+strs_2 = [""]
+strs_3 = ["a"]
+
+if __name__ == '__main__':
+    res = groupAnagrams(strs_1)
+    print(res)

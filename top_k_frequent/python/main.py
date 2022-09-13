@@ -37,3 +37,14 @@ def topKFrequent(nums: List[int], k: int) -> List[int]:
 
     would like to try another approach to decrease time complexity
 """
+
+# Inputs:
+nums_1 = [1,1,1,2,2,3]
+k_1 = 2
+
+nums_2 = [1]
+k_2 = 1
+
+if __name__ == '__main__':
+    res = topKFrequent(nums_1, k_1)
+    print(res)

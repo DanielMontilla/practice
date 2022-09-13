@@ -34,8 +34,12 @@ def decode(str: str) -> List[str]:
 
     return res
 
+# Input:
+str_1 = "This is a simple test!"
 
-# Notes:
-""""
-
-"""
+if __name__ == '__main__':
+    encoded_str = encode(str_1)
+    decored_str = decode(encoded_str)
+    print(encoded_str)
+    print(decored_str)
+    
