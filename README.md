@@ -21,7 +21,7 @@ Questions mostly obtained through [neetcode](https://neetcode.io/practice)
 
 ## *Sliding Window*
 - [x] Best Time to Buy & Sell Stock	🥉
-- [ ] Longest Substring Without Repeating Characters
+- [x] Longest Substring Without Repeating Characters 🥇
 - [ ] Longest Repeating Character Replacement
 - [ ] Permutation in String
 - [ ] Minimum Window Substring
