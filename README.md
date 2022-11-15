@@ -14,7 +14,7 @@ Questions mostly obtained through [neetcode](https://neetcode.io/practice)
 
 ### *Two Pointers*
 - [x] Valid Palindrome 🥇
-- [x] Two Sum II 🥈
+- [x] Two Sum II 🥈 *
 - [x] 3Sum 🥈
 - [x] Container with Most Water 🥇
 - [ ] Trapping Rain Water
