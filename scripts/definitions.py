@@ -12,16 +12,16 @@ f"\n// problem @ {l}\n"
 
 """
 fn solution() -> Option<&'static str> {
-    None
+  None
 }
 
 #[test]
 fn test() {
-    let a1 = None;
-    assert_eq!(
-      solution(), 
-      None
-    );
+  let a1 = None;
+  assert_eq!(
+    solution(), 
+    None
+  );
 }
 
 // Notes:
