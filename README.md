@@ -1,9 +1,7 @@
-A personal repository for a bunch of programming practice.
-
 Questions mostly obtained through [neetcode](https://neetcode.io/practice)
 # Checklist
 
-## *Arrays & Hashing*
+### *Arrays & Hashing*
 - [ ] Contains Duplicate
 - [ ] Valid Anagram
 - [ ] Two Sum
@@ -14,14 +12,14 @@ Questions mostly obtained through [neetcode](https://neetcode.io/practice)
 - [x] Encode and Decode Strings 🥇
 - [x] Longest Consecutive Sequence 🥈
 
-## *Two Pointers*
+### *Two Pointers*
 - [x] Valid Palindrome 🥇
 - [x] Two Sum II 🥈
 - [x] 3Sum 🥈
 - [x] Container with Most Water 🥇
 - [ ] Trapping Rain Water
 
-## *Sliding Window*
+### *Sliding Window*
 - [x] Best Time to Buy & Sell Stock	🥉
 - [x] Longest Substring Without Repeating Characters 🥇
 - [ ] Longest Repeating Character Replacement
@@ -30,12 +28,4 @@ Questions mostly obtained through [neetcode](https://neetcode.io/practice)
 - [ ] Sliding Window Maximum
 
 # Notes
-To start a new problem run `start_new.py` in the `scripts` folder. This utility requires the following pip dependency installation command:
-
-`pip install rich`
-
-#### Python
-simply code solution, write tests in provided class and run the file.
-
-#### Rust
-code the solution, write the required test and run `cargo test` whilst in the problem's corresponding directory
+To start a new problem run `start_new.py` in the `scripts` folder. Make sure rich is installed `pip install rich`
