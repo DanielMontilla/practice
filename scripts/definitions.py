@@ -16,13 +16,7 @@ fn solution() -> Option<&'static str> {
 }
 
 #[test]
-fn test_0() {
-  let a1 = None;
-  assert_eq!(
-    solution(), 
-    None
-  );
-}
+fn test_0() { assert_eq!(solution(), None) }
 
 // Notes:
 """
@@ -41,10 +35,7 @@ def solution():
 
 class Test(unittest.TestCase):
   def test_0(self):
-    self.assertEqual(
-      solution(),
-      True
-    )
+    self.assertEqual(solution(), True)
     
 if __name__ == '__main__':
   unittest.main()
