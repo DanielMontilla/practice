@@ -1,3 +1,5 @@
+A personal repository for a bunch of programming practice.
+
 Questions mostly obtained through [neetcode](https://neetcode.io/practice)
 # Checklist
 
@@ -26,3 +28,14 @@ Questions mostly obtained through [neetcode](https://neetcode.io/practice)
 - [ ] Permutation in String
 - [ ] Minimum Window Substring
 - [ ] Sliding Window Maximum
+
+# Notes
+To start a new problem run `start_new.py` in the `scripts` folder. This utility requires the following pip dependency installation command:
+
+`pip install rich`
+
+#### Python
+simply code solution, write tests in provided class and run the file.
+
+#### Rust
+code the solution, write the required test and run `cargo test` whilst in the problem's corresponding directory
