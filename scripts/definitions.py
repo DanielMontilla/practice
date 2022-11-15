@@ -16,7 +16,7 @@ fn solution() -> Option<&'static str> {
 }
 
 #[test]
-fn test() {
+fn test_0() {
   let a1 = None;
   assert_eq!(
     solution(), 
@@ -40,7 +40,7 @@ def solution():
   return True
 
 class Test(unittest.TestCase):
-  def test(self):
+  def test_0(self):
     self.assertEqual(
       solution(),
       True
