@@ -27,5 +27,14 @@ Questions mostly obtained through [neetcode](https://neetcode.io/practice)
 - [ ] Minimum Window Substring
 - [ ] Sliding Window Maximum
 
+### *Stack*
+- [x] Valid Parentheses	🥈
+- [ ] Min Stack	
+- [ ] Evaluate Reverse Polish Notation	
+- [ ] Generate Parentheses	
+- [ ] Daily Temperatures	
+- [ ] Car Fleet	
+- [ ] Largest Rectangle In Histogram
+
 # Notes
-To start a new problem run `start_new.py` in the `scripts` folder. Make sure rich is installed `pip install rich`
+To start a new problem run `init.py` in the `scripts` folder. Remember to install the required `pip` dependencies in a virtual enviorment by running `python3 -m pip install -r requirements.txt`
