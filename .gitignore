@@ -1,6 +1,8 @@
 # Created by https://www.toptal.com/developers/gitignore/api/git,c++,python,visualstudiocode,obsidian,rust,macos,vim
 # Edit at https://www.toptal.com/developers/gitignore?templates=git,c++,python,visualstudiocode,obsidian,rust,macos,vim
 
+.vscode/
+
 ### C++ ###
 # Prerequisites
 *.d
