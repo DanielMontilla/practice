@@ -29,7 +29,7 @@ Questions mostly obtained through [neetcode](https://neetcode.io/practice)
 
 ### *Stack*
 - [x] Valid Parentheses	🥈
-- [ ] Min Stack	
+- [x] Min Stack	🥈
 - [ ] Evaluate Reverse Polish Notation	
 - [ ] Generate Parentheses	
 - [ ] Daily Temperatures	
