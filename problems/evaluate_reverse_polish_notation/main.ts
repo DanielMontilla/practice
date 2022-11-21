@@ -70,7 +70,6 @@ const solution_1 = (tokens: string[]): number => {
       stack.push(res);
     }
   }
-
   return stack[0];
 }
 
