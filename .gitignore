@@ -2,7 +2,7 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=git,c++,python,visualstudiocode,obsidian,rust,macos,vim
 
 .vscode/
-.identifier
+*.Identifier
 
 ### C++ ###
 # Prerequisites
