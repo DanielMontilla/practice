@@ -31,8 +31,8 @@ Questions mostly obtained through [neetcode](https://neetcode.io/practice)
 - [x] Valid Parentheses	🥈
 - [x] Min Stack	🥈
 - [x] Evaluate Reverse Polish Notation 🥇
-- [ ] Generate Parentheses	
-- [ ] Daily Temperatures	
+- [x] Generate Parentheses 🥈
+- [x] Daily Temperatures 🥈
 - [ ] Car Fleet	
 - [ ] Largest Rectangle In Histogram
 
