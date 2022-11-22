@@ -1,4 +1,5 @@
 import { assertEquals } from "https://deno.land/std@0.165.0/testing/asserts.ts";
+const { test } = Deno;
 
 /** 
  * problem: $PROB$
@@ -6,7 +7,6 @@ import { assertEquals } from "https://deno.land/std@0.165.0/testing/asserts.ts";
  * author: $AUTH$ ($GIT$)
  */
 
-const { test } = Deno;
 const solution = (): boolean => {
   return true
 }
