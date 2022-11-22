@@ -43,5 +43,8 @@ test('test_0', () => { assertEquals(solution([30,60,90]), [1,1,0]) });
 solution([73,74,75,71,69,72,76,73])
 
 /** Notes:
+ * Runtime: 545 ms, faster than 46.20% of TypeScript online submissions for Daily Temperatures.
+ * Memory Usage: 63.7 MB, less than 82.07% of TypeScript online submissions for Daily Temperatures.
  * 
+ * Maybe there is a more efficient two pointer solution...
  */
