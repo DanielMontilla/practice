@@ -36,5 +36,14 @@ Questions mostly obtained through [neetcode](https://neetcode.io/practice)
 - [ ] Car Fleet	
 - [ ] Largest Rectangle In Histogram
 
+### *Binary Search*
+- [x] Binary Search	🥇
+- [ ] Search a 2D Matrix	
+- [ ] Koko Eating Bananas	
+- [ ] Search In Rotated Sorted Array	
+- [ ] Find Minimum In Rotated Sorted Array	
+- [ ] Time Based Key Value Store	
+- [ ] Median of Two Sorted Arrays
+
 # Notes
-To start a new problem run `init.py` in the `scripts` folder. Remember to install the required `pip` dependencies in a virtual enviorment by running `python3 -m pip install -r requirements.txt`
+To start a new problem run `init.py` in the `scripts` folder. Remember to install the required `pip` dependencies in a virtual enviorment by running `python -m pip install -r requirements.txt`
