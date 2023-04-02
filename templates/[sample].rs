@@ -5,7 +5,7 @@
 /// author: $AUTH$ ($GIT$)
 
 fn solution() -> bool {
-  true
+    true
 }
 
 #[test]
