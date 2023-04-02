@@ -38,7 +38,7 @@ Questions mostly obtained through [neetcode](https://neetcode.io/practice)
 
 ### *Binary Search*
 - [x] Binary Search	🥇
-- [ ] Search a 2D Matrix	
+- [x] Search a 2D Matrix	
 - [ ] Koko Eating Bananas	
 - [ ] Search In Rotated Sorted Array	
 - [ ] Find Minimum In Rotated Sorted Array	
