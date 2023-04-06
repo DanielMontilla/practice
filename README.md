@@ -45,5 +45,18 @@ Questions mostly obtained through [neetcode](https://neetcode.io/practice)
 - [ ] Time Based Key Value Store	
 - [ ] Median of Two Sorted Arrays
 
+### *Linked List*
+- [x] Reverse Linked List 🥇
+- [ ] Merge Two Sorted Lists	
+- [ ] Reorder List	
+- [ ] Remove Nth Node From End of List	
+- [ ] Copy List With Random Pointer	
+- [ ] Add Two Numbers	
+- [ ] Linked List Cycle	
+- [ ] Find The Duplicate Number	
+- [ ] LRU Cache	
+- [ ] Merge K Sorted Lists	
+- [ ] Reverse Nodes In K Group
+
 # Notes
 To start a new problem run `init.py` in the `scripts` folder. Remember to install the required `pip` dependencies in a virtual enviorment by running `python -m pip install -r requirements.txt`
